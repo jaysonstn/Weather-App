@@ -14,4 +14,4 @@ Para rodar a aplicação, é necessário possui a chave de API, e incluí-la na 
 ![Search](screenshot1.png)
 ***
 
-![App](screenshot2.png)
+![App](screenshot1.1.png)
